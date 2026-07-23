@@ -3,7 +3,7 @@ import time
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="sk-2eb3da4fc82d40309d232d64f0c58dee",
+    api_key="你自己的", 
     base_url="https://api.deepseek.com"
 )
 
